@@ -46,3 +46,10 @@ body {
 .form_button_submit:hover {
     color: #7a8188;
   }
+.create_button:hover {
+    color: #7a8188;
+  }
+
+  .share_button:hover {
+    color: #7a8188;
+  }
